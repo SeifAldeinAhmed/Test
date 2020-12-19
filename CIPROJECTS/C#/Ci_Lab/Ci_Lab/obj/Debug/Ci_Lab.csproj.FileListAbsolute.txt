@@ -1,0 +1,18 @@
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.exe.config
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.exe
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.pdb
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.csprojResolveAssemblyReference.cache
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.Form1.resources
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.Properties.Resources.resources
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.csproj.GenerateResource.Cache
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.exe
+c:\users\seif\documents\visual studio 2012\Projects\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.pdb
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.exe.config
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.exe
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.pdb
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.exe
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\bin\Debug\Ci_Lab.pdb
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.csprojResolveAssemblyReference.cache
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.Form1.resources
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.Properties.Resources.resources
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Ci_Lab\Ci_Lab\obj\Debug\Ci_Lab.csproj.GenerateResource.Cache

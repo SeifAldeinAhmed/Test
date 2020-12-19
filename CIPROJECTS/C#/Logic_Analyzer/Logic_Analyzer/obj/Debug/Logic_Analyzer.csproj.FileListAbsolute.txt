@@ -1,0 +1,18 @@
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.exe.config
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.exe
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.pdb
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Ci_Lab.Form1.resources
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.Properties.Resources.resources
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.csproj.GenerateResource.Cache
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.exe
+C:\Users\Seif\Documents\Visual Studio 2012\Projects\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.pdb
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.exe.config
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.exe
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.pdb
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Ci_Lab.Form1.resources
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.Properties.Resources.resources
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\obj\Debug\Logic_Analyzer.csproj.GenerateResource.Cache
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.exe
+C:\Users\Seif\Desktop\CIPROJECTS\C#\Logic_Analyzer\Logic_Analyzer\bin\Debug\Logic_Analyzer.pdb
